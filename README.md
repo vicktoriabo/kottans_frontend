@@ -12,8 +12,8 @@
 > 1. *How to use Git and GitHub* is a great course. Helped me to understand better how to use Git and GitHub together.
 > 2. Never met *try.github.io*, but I like it. Very easy to learn and practice.
 
-> ![task0](/tasks/task_0/1. How to use Git and GitHub) ![task0](/tasks/task_0/1. How to use Git and GitHub)
-> ![task0](/tasks/task_0/2. try.github.io) ![task0](/tasks/task_0/2. try.github.io)
+> ![task01](/tasks/task_0/1. How to use Git and GitHub.jpg) ![task0](/tasks/task_0/1. How to use Git and GitHub.jpg)
+> ![task02](/tasks/task_0/2. try.github.io.jpg) ![task0](/tasks/task_0/2. try.github.io.jpg)
 ---
 
 ## Test Task 1
