@@ -12,7 +12,8 @@
 > 1. *How to use Git and GitHub* is a great course. Helped me to understand better how to use Git and GitHub together.
 > 2. Never met *try.github.io*, but I like it. Very easy to learn and practice.
 
-> ![task0](/tasks/task_0/screen01.jpg) ![task0](/tasks/task_0/screen02.jpg)
+> ![task0](/tasks/task_0/screen01.jpg)
+> ![task0](/tasks/task_0/screen02.jpg)
 ---
 
 ## Test Task 1
@@ -31,24 +32,24 @@
 0. [x] [What is Version Control](https://classroom.udacity.com/courses/ud123/)
 1. [x] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
 
-> ![task2](/tasks/task_2/2.1. What is Version Control)
-> ![task2](/tasks/task_2/2.2. GitHub & Collaboration)
+> ![task2](/tasks/task_2/screen21.jpg)
+> ![task2](/tasks/task_2/screen22.jpg)
 ---
 
 ## Test Task 3
 1. [x] [Intro to HTML & CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 
-> ![task3](/tasks/task_3/3. Intro to HTML & CSS)
+> ![task3](/tasks/task_3/screen31.jpg)
 ---
 
 ## Test Task 4
 1. [x] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 
-> ![task4](/tasks/task_4/4. Responsive Web Design Fundamentals)
+> ![task4](/tasks/task_4/screen41.jpg)
 ---
 
 ## Test Task 5
 1. [x] [Intro to JS](https://www.udacity.com/course/intro-to-javascript--ud803)
 
-> ![task5](/tasks/task_5/5. Intro to JS)
+> ![task5](/tasks/task_5/screen51.jpg)
 ---
