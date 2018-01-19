@@ -22,9 +22,9 @@
 4. [x] [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 5. [x] [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
-> ![task1](/tasks/task_1/1.1. Linux Command Line Basics)
-> ![task1](/tasks/task_1/1.2. Configuring Linux Web Servers)
-> ![task1](/tasks/task_1/1.3. Networking for Web Developers)
+> ![task1](/tasks/task_1/screen11.jpg)
+> ![task1](/tasks/task_1/screen12.jpg)
+> ![task1](/tasks/task_1/screen13.jpg)
 ---
 
 ## Test Task 2
